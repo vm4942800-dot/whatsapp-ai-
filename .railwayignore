@@ -1,0 +1,11 @@
+node_modules
+.next
+.data
+.wwebjs_cache
+.freebuff
+.git
+AGENTS.md
+CLAUDE.md
+tsconfig.tsbuildinfo
+*.zip
+*.log
